@@ -32,6 +32,21 @@ export const postDetailsReducer = (state = INITIAL_STATE, action) => {
       };
     }
 
+    case 'postDetails/addPost': {
+      // action.payload - {id: 1, title: '123', body: "hello"}
+      return {
+        ...state,
+        posts: [state.posts, action.payload],
+      };
+    }
+    case 'postDetails/deletePost': {
+      // action.payload -1
+      return {
+        ...state,
+        posts: state.posts.filter(post => post.id !== action.payload),
+      };
+    }
+
     default:
       return state;
   }
