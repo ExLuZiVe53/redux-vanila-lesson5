@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/redux-vanila-lesson5/static/css/main.4f044e39.css",
-    "main.js": "/redux-vanila-lesson5/static/js/main.5bbbf492.js",
+    "main.js": "/redux-vanila-lesson5/static/js/main.5ee4935f.js",
     "static/js/983.6e33c20e.chunk.js": "/redux-vanila-lesson5/static/js/983.6e33c20e.chunk.js",
     "static/js/649.7f1fec81.chunk.js": "/redux-vanila-lesson5/static/js/649.7f1fec81.chunk.js",
     "static/js/735.a499730a.chunk.js": "/redux-vanila-lesson5/static/js/735.a499730a.chunk.js",
@@ -11,7 +11,7 @@
     "index.html": "/redux-vanila-lesson5/index.html",
     "static/media/search.svg": "/redux-vanila-lesson5/static/media/search.93bb8714c3dcf7b8cd020ca8152fde64.svg",
     "main.4f044e39.css.map": "/redux-vanila-lesson5/static/css/main.4f044e39.css.map",
-    "main.5bbbf492.js.map": "/redux-vanila-lesson5/static/js/main.5bbbf492.js.map",
+    "main.5ee4935f.js.map": "/redux-vanila-lesson5/static/js/main.5ee4935f.js.map",
     "983.6e33c20e.chunk.js.map": "/redux-vanila-lesson5/static/js/983.6e33c20e.chunk.js.map",
     "649.7f1fec81.chunk.js.map": "/redux-vanila-lesson5/static/js/649.7f1fec81.chunk.js.map",
     "735.a499730a.chunk.js.map": "/redux-vanila-lesson5/static/js/735.a499730a.chunk.js.map",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.4f044e39.css",
-    "static/js/main.5bbbf492.js"
+    "static/js/main.5ee4935f.js"
   ]
 }
